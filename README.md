@@ -28,23 +28,22 @@ https://github.com/snehapatras
 # Bela
 https://github.com/bela413
 
-# Shezan
-https://github.com/shezandawood
-
 # Suleman
 https://github.com/Suleman-Ali/repo
 
 # Ali Raza
 https://github.com/AliRazaZabtech
 
+# Shayan
+https://github.com/Shayan4111/
 
 # Tanzeel Sarwar
 Github:  https://github.com/Tanzeel-Sarwar
 Project:  https://github.com/Tanzeel-Sarwar/Project-DevOps
 Vercel:  https://project-dev-ops.vercel.app/
 
-# Shayan
-https://github.com/Shayan4111/
 
-# Subhan
-https://github.com/Rohangujja
+# Hassaan Aamir
+Github: https://github.com/Hassaan1019
+Project: https://github.com/Hassaan1019/Web-Page
+Vercel: https://web-page-beta-nine.vercel.app/
