@@ -47,7 +47,7 @@ https://github.com/shezandawood
 https://github.com/Suleman-Ali/websitE
 
 # Ali Raza
-https://github.com/AliRazaZabtech
+Project: https://github.com/AliRazaZabtech/final-project
 
 
 # Tanzeel Sarwar
