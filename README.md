@@ -35,6 +35,7 @@ https://github.com/maryamkhan55
 
 # Sneha 
 https://github.com/snehapatras
+final task: https://github.com/snehapatras/Class-task
 
 # Bela
 https://github.com/bela413
