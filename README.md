@@ -10,14 +10,15 @@ git config --global user.email "your.email@example.com"
 add your github link here like. https://github.com/AaqibRajput15
 
 # fahad
-https://github.com/fahad5118/
+Project Link: https://github.com/fahad5118/Final-Project
+Vercel Link: 
 
 # Maryam Ismail
-Github link. https://github.com/TheMaryamIsmail Project link: https://github.com/TheMaryamIsmail/Webpage
+Final Project: https://github.com/TheMaryamIsmail/Final-Project--Developers-Hub
 
 # usama
-https://github.com/usama764/
-project: https://github.com/usama764/landing-page
+project: https://github.com/usama764/Final_Project
+Vercel: 
 
 # Duaa
 https://github.com/DuaaDaniya
@@ -26,33 +27,38 @@ project link: https://github.com/DuaaDaniya/Project
 # Iqra
 github link: https://github.com/Iqra-mughal50
 class web task: https://github.com/Iqra-mughal50/Project
+final task: https://github.com/Iqra-mughal50/Website
 
 # Maryam Tariq
 https://github.com/maryamkhan55
 
 # Sneha 
 https://github.com/snehapatras
+final task: https://github.com/snehapatras/Class-task
 
 # Bela
 https://github.com/bela413
+final task: https://github.com/bela413/Class-task
 
 # Shezan
 https://github.com/shezandawood
 
 # Suleman
-https://github.com/Suleman-Ali/repo
+https://github.com/Suleman-Ali/websitE
 
 # Ali Raza
 https://github.com/AliRazaZabtech
 
 
 # Tanzeel Sarwar
-Github:  https://github.com/Tanzeel-Sarwar
-Project:  https://github.com/Tanzeel-Sarwar/Project-DevOps
-Vercel:  https://project-dev-ops.vercel.app/
+Github:  https://github.com/Tanzeel-Sarwar <br>
+Project:  https://github.com/Tanzeel-Sarwar/Final-Project
+Vercel:  https://final_project_tanzeel.vercel.app/
 
 # Ayyan
 Github:  https://github.com/Ayan-Ahmed12
+Project: https://github.com/Ayan-Ahmed12/Final-Project
+Vercel: https://final_project_ayyan.vercel.app/
 
 # Shayan
 https://github.com/Shayan4111/
@@ -64,3 +70,9 @@ https://github.com/Rohangujja
 Github: https://github.com/Hassaan1019
 Project: https://github.com/Hassaan1019/Web-Page
 Vercel: https://web-page-beta-nine.vercel.app/
+
+# Sara Ayub
+final project: https://github.com/thesaraayub/final-project---e-commerce-wesite
+
+# Sehar Amin
+Final Project: https://github.com/seharamin/Final-Project-E-commerce
