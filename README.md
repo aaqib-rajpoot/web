@@ -50,12 +50,14 @@ https://github.com/AliRazaZabtech
 
 
 # Tanzeel Sarwar
-Github:  https://github.com/Tanzeel-Sarwar
-Project:  https://github.com/Tanzeel-Sarwar/Project-DevOps
-Vercel:  https://project-dev-ops.vercel.app/
+Github:  https://github.com/Tanzeel-Sarwar <br>
+Project:  https://github.com/Tanzeel-Sarwar/Final-Project
+Vercel:  https://final_project_tanzeel.vercel.app/
 
 # Ayyan
 Github:  https://github.com/Ayan-Ahmed12
+Project: https://github.com/Ayan-Ahmed12/Final-Project
+Vercel: https://final_project_ayyan.vercel.app/
 
 # Shayan
 https://github.com/Shayan4111/
