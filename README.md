@@ -17,13 +17,12 @@ Vercel Link:
 Final Project: https://github.com/TheMaryamIsmail/Final-Project--Developers-Hub
 
 # usama
-https://github.com/usama764/
-project: https://github.com/usama764/landing-page
+project: https://github.com/usama764/Final_Project
+Vercel: 
 
 # Duaa
 https://github.com/DuaaDaniya
 project link: https://github.com/DuaaDaniya/Project
-final task: https://github.com/DuaaDaniya/Final-Task
 
 # Iqra
 github link: https://github.com/Iqra-mughal50
