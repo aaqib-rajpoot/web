@@ -23,7 +23,6 @@ project: https://github.com/usama764/landing-page
 # Duaa
 https://github.com/DuaaDaniya
 project link: https://github.com/DuaaDaniya/Project
-final task: https://github.com/DuaaDaniya/Final-Task
 
 # Iqra
 github link: https://github.com/Iqra-mughal50
@@ -39,6 +38,7 @@ final task: https://github.com/snehapatras/Class-task
 
 # Bela
 https://github.com/bela413
+final task: https://github.com/bela413/Class-task
 
 # Shezan
 https://github.com/shezandawood
