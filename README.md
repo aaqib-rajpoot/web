@@ -23,6 +23,7 @@ Vercel:
 # Duaa
 https://github.com/DuaaDaniya
 project link: https://github.com/DuaaDaniya/Project
+final task: https://github.com/DuaaDaniya/Final-Task
 
 # Iqra
 github link: https://github.com/Iqra-mughal50
