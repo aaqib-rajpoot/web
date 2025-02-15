@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    :root{
+
+        /* Colors */
+       /* --base-clr: #4059AD; */
+      /* --base-clr: #61d3d37e; */
+      --base-clr-lt: #4c76ff;
+      --base-clr-dk: #22336b;
+      --primary-clr: #6B9AC4;
+      --primary-clr-lt: #84bef1;
+      --primary-clr-dk: #507291;
+      --secondary-clr: #97D8C4;
+      --secondary-clr-lt: #baffea;
+      --secondary-clr-dk: #59af95;
+      /* --acent-clr: #EFF2F1; */
+      --acent-clr: #ffffff;
+      /* --vibrant-clr: #F4B942; */
+      --vibrant-clr: #ff9699d2;
+      --vibrant-clr-lt: #ffd073;
+      --vibrant-clr-dk: #e3a11e;
+
+      --base-clr : #0e3852;
+      --vibrant-clr: #598baa;
+
+        }
+        body{
+            background: linear-gradient(-45deg, #1b1b3a, #3a0ca3, #7209b7, #4cc9f0);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            min-height: 100vh;
+            padding: 2rem;
+        }
+header{
+    position: sticky;
+    top: 0%;
+    background-color: var(--base-clr);
+    color:var(--acent-clr);
+    padding: 5px 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav h1{
+    display: inline;
+}
+
+nav ul{
+    display: inline;
+    list-style: none;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-decoration: none;
+    color:var(--acent-clr);
+    margin: 0px 10px;
+}
+
+nav button{
+    background-color: var(--vibrant-clr);
+    color: var(--acent-clr);
+    padding: 8px 15px;
+    border: 2px solid var(--acent-clr);
+    border-radius: 3px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 10px auto;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    backdrop-filter: blur(10px);
+    animation: fadeIn 1s ease;
+    }
+.hero-section {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+}
+
+.hero-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 2rem;
+    animation: float 6s ease-in-out infinite;
+}
+
+.header {
+        text-align: center;
+        margin-bottom: 2rem;
+        animation: float 6s ease-in-out infinite;
+}
+
+.header p {
+        font-size: 1.1rem;
+}
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Zabtech Web Class</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="task.html">Tasks</a></li>
+                <li><a href="results.html">Results</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+            <button>Registration</button>
+        </nav>
+
+
+    </header>
+    <div class="container">
+        <div class="hero-section">
+            <img src="https://cdn-icons-png.flaticon.com/512/6194/6194029.png" alt="Task Manager Hero" class="hero-image">
+            <div class="header">
+               <h1>Task Master </h1>
+                <p>Your Ultimate Task Management Solution</p>
+            </div>
+    </div>
+</body>
+</html>
