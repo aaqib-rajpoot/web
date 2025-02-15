@@ -17,8 +17,8 @@ Vercel Link:
 Final Project: https://github.com/TheMaryamIsmail/Final-Project--Developers-Hub
 
 # usama
-https://github.com/usama764/
-project: https://github.com/usama764/landing-page
+project: https://github.com/usama764/Final_Project
+Vercel: 
 
 # Duaa
 https://github.com/DuaaDaniya
@@ -32,6 +32,7 @@ final task: https://github.com/Iqra-mughal50/Website
 
 # Maryam Tariq
 https://github.com/maryamkhan55
+Final task: https://github.com/maryamkhan55/Final-task
 
 # Sneha 
 https://github.com/snehapatras
@@ -39,6 +40,7 @@ final task: https://github.com/snehapatras/Class-task
 
 # Bela
 https://github.com/bela413
+final task: https://github.com/bela413/Class-task
 
 # Shezan
 https://github.com/shezandawood
@@ -47,30 +49,37 @@ https://github.com/shezandawood
 https://github.com/Suleman-Ali/websitE
 
 # Ali Raza
-https://github.com/AliRazaZabtech
+Project: https://github.com/AliRazaZabtech/final-project
 
 
 # Tanzeel Sarwar
-Github:  https://github.com/Tanzeel-Sarwar
-Project:  https://github.com/Tanzeel-Sarwar/Project-DevOps
-Vercel:  https://project-dev-ops.vercel.app/
+Github:  https://github.com/Tanzeel-Sarwar <br>
+Project:  https://github.com/Tanzeel-Sarwar/Final-Project <br>
+Vercel:  https://final_project_tanzeel.vercel.app/ <br>
 
 # Ayyan
-Github:  https://github.com/Ayan-Ahmed12
+Github:  https://github.com/Ayan-Ahmed12 <br>
+Project: https://github.com/Ayan-Ahmed12/Final-Project <br>
+Vercel: https://final_project_ayyan.vercel.app/ <br>
 
 # Shayan
-https://github.com/Shayan4111/
+https://github.com/Shayan4111/websitee
 
 # Subhan
 https://github.com/Rohangujja
 
 # Hassaan Aamir
 Github: https://github.com/Hassaan1019
-Project: https://github.com/Hassaan1019/Web-Page
-Vercel: https://web-page-beta-nine.vercel.app/
+Project: https://github.com/Hassaan1019/Final_Project
+Vercel: https://final-prject-hassaan.vercel.app/
 
 # Sara Ayub
 final project: https://github.com/thesaraayub/final-project---e-commerce-wesite
 
 # Sehar Amin
 Final Project: https://github.com/seharamin/Final-Project-E-commerce
+
+
+# shezan dawood
+final task: https://github.com/shezandawood/Final-task
+
