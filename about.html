@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Class Site</title>
+    <style>
+        * {
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --base-clr: #0e3852;
+            --primary-clr: #6B9AC4;
+            --secondary-clr: #97D8C4;
+            --acent-clr: #ffffff;
+            --vibrant-clr: #598baa;
+            --font-h1: 96px;
+            --font-h2: 60px;
+            --font-h3: 48px;
+            --font-h4: 34px;
+            --font-h5: 24px;
+            --font-b1: 16px;
+        }
+
+        body {
+            font-family: system-ui, sans-serif;
+        }
+
+        header {
+            position: sticky;
+            top: 0;
+            background-color: var(--base-clr);
+            color: var(--acent-clr);
+            padding: 10px 0;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        nav li {
+            margin: 0 10px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--acent-clr);
+        }
+
+        nav button {
+            background-color: var(--vibrant-clr);
+            color: var(--acent-clr);
+            padding: 8px 15px;
+            border: 2px solid var(--acent-clr);
+            border-radius: 3px;
+        }
+
+        .hero-section {
+            background-color: var(--primary-clr);
+            text-align: center;
+            padding: 50px;
+            color: white;
+        }
+
+        .hero-section h1 {
+            font-size: var(--font-h3);
+        }
+
+        .hero-section p {
+            font-size: var(--font-b1);
+            max-width: 800px;
+            margin: 10px auto;
+            line-height: 1.6;
+        }
+
+        .hero-section button {
+            background-color: var(--vibrant-clr);
+            color: var(--acent-clr);
+            padding: 8px 15px;
+            border: 2px solid var(--acent-clr);
+            border-radius: 3px;
+        }
+
+        .about-us {
+            background-color: var(--secondary-clr);
+            padding: 50px;
+            text-align: center;
+        }
+
+        .about-us h2 {
+            font-size: var(--font-h3);
+            color: var(--base-clr);
+        }
+
+        .about-us p {
+            font-size: var(--font-b1);
+            max-width: 800px;
+            margin: 10px auto;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: var(--base-clr);
+            color: var(--acent-clr);
+            text-align: center;
+            padding: 20px;
+        }
+
+        footer a {
+            color: var(--acent-clr);
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Zabtech Web Class</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="task.html">Tasks</a></li>
+                <li><a href="results.html">Results</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+            <button>Registration</button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <h1>The Web Development Site of Zabtech for Course.</h1>
+            <p>Welcome to our platform where students can learn web development effectively. We provide hands-on tasks and result tracking.</p>
+            <button>More Details</button>
+        </section>
+
+        <section class="about-us">
+            <h2>About Us</h2>
+            <p>Zabtech Web Class is dedicated to providing high-quality web development training. Our mission is to equip learners with the necessary skills to excel in web development.</p>
+        </section>
+    </main>
+
+    <footer>
+        <nav>
+            <h4>Zabtech Web Class</h4>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="task.html">Tasks</a></li>
+                <li><a href="results.html">Results</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+        <p>Copyright @ 2025</p>
+    </footer>
+</body>
+</html>
