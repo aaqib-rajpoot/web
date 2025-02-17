@@ -54,12 +54,12 @@ Project: https://github.com/AliRazaZabtech/final-project
 # Tanzeel Sarwar
 Github:  https://github.com/Tanzeel-Sarwar <br>
 Project:  https://github.com/Tanzeel-Sarwar/Final-Project <br>
-Vercel:  https://final_project_tanzeel.vercel.app/ <br>
+Vercel:  https://final-project-tanzeel.vercel.app/ <br>
 
 # Ayyan
 Github:  https://github.com/Ayan-Ahmed12 <br>
 Project: https://github.com/Ayan-Ahmed12/Final-Project <br>
-Vercel: https://final_project_ayyan.vercel.app/ <br>
+Vercel: https://final-project-ayyan.vercel.app/ <br>
 
 # Shayan
 https://github.com/Shayan4111/websitee
@@ -78,7 +78,8 @@ final project: https://github.com/thesaraayub/final-project---e-commerce-wesite
 # Sehar Amin
 Final Project: https://github.com/seharamin/Final-Project-E-commerce
 
-
 # shezan dawood
 final task: https://github.com/shezandawood/Final-task
 
+# Faraz
+https://github.com/farazgill5674/faraz
