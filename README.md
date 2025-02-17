@@ -83,3 +83,7 @@ final task: https://github.com/shezandawood/Final-task
 
 # Faraz
 https://github.com/farazgill5674/faraz
+
+# Arsal
+Github: https://github.com/Arsal444/Final-Project
+Vercel Link: final-project-arsal.vercel.app
